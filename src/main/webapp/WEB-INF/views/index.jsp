@@ -13,7 +13,7 @@
 <body>
 	<h3>commit한 내용을 취소하고 싶다면</h3>
 	<p>1. 브렌치 초기화 - 특정 지점까지 초기화 하는 기능</p>
-	<p>2. reverse commit - 특정 커밋에서 실행한 내용을 취소하고, 이 후 내용은 유지하고 싶을 때 사용</p>
+	<p>2. reverse commit</p>
 	<p>불필요한 내용</p>
 </body>
 <script>
